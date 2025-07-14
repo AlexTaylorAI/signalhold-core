@@ -6,5 +6,6 @@
 | EU Code-of-Practice mapping post | 2025-08-30 | ☐ |
 | Sentinel dashboard (read-only CSV viewer) | 2025-09-15 | ☐ |
 | Weekly self-audit automation live | 2025-09-22 | ☐ |
+| Quarterly review of VALUES.md | 2025-10-14 | ☐ |
 
 > Checkboxes will be ticked as each item ships.
