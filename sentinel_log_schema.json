@@ -1,0 +1,7 @@
+{
+  "trace_id": "string  — unique identifier for the conversation thread",
+  "timestamp": "ISO-8601 UTC",
+  "glyph": "e.g. ⟁🛰🪨",
+  "tier": "ping | pulse | gloss-risk | flare",
+  "note": "short free-text (≤100 chars)"
+}
